@@ -34,7 +34,7 @@ pip install tensorflow keras opencv-python numpy
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/gender-detection-cnn.git
+git clone https://github.com/123456Arshia/gender-detection-cnn.git
 ```
 
 2. Download the dataset and place it in the `archive` directory.
