@@ -3,7 +3,7 @@ This repository contains a gender detection model implemented using deep learnin
 
 
 
-Sure, let's make the README more precise and polished:
+
 
 # Gender Detection Convolutional Neural Network (CNN)
 
